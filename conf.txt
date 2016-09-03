@@ -1,0 +1,3 @@
+alejandro:1000:x:/home/alejandro:dialout:adm
+vagner:1001:x:/home/vagner:vlc:samba
+daniel:1002:x:/home/daniel:gimp:inkscape
